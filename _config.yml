@@ -12,11 +12,10 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Zhenyang Gao | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Zhenyang Gao"
-description              : &description "Zhenyang Gao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Zhenyang Gao's academic portfolio"
 url                      : "https://XGmate.github.io"
-                        # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XGmate/XGmate.github.io"
+baseurl                  : "/GaoZhenyang.github.io" # 项目页面子路径，注意开头的斜杠
+repository               : "XGmate/GaoZhenyang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +23,7 @@ repository               : "XGmate/XGmate.github.io"
 author:
   # Biographic information
   # 上传头像到 images/ 后，将下一行改为 avatar: "profile.png"
-  avatar           : "profile.png"
+  avatar           :
   name             : "Zhenyang Gao"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Control Engineering at the School of Civil Aviation, Northwestern Polytechnical University"
@@ -46,7 +45,6 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
