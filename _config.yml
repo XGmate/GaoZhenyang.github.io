@@ -23,7 +23,7 @@ repository               : "XGmate/GaoZhenyang.github.io"
 author:
   # Biographic information
   # 上传头像到 images/ 后，将下一行改为 avatar: "profile.png"
-  avatar           : "https://xgmate.github.io/GaoZhenyang.github.io/images/profile.png"
+  avatar           : "profile.png"
   name             : "Zhenyang Gao"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Control Engineering at the School of Civil Aviation, Northwestern Polytechnical University"
